@@ -15,7 +15,7 @@ namespace MobileCenterUY
     {
         private bool showMagicView = false;
         private string mobileCenterKey_Android = "5bc95e1c-073b-4027-8dc1-f4a910cac17a";
-        private string mobileCenterKey_iOS = "b5aba5dd-6ad5-45cc-8e14-40a604aacd0b";
+        private string mobileCenterKey_iOS = "b14373c3-6a4f-489c-bfff-b9ccb8ab0f36";
 
         public App()
         {
